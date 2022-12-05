@@ -32,3 +32,4 @@
 <li><a href="https://web.stanford.edu/~jurafsky/slp3/25.pdf">Phonetics	</a>
 <li><a href="https://web.stanford.edu/~jurafsky/slp3/26.pdf">Automatic Speech Recognition and Text-to-Speech</a>
 </ol>
+<a href="https://web.stanford.edu/~jurafsky/slp3/"> Source </a>
