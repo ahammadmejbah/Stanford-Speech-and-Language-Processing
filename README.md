@@ -33,4 +33,4 @@
 <li><a href="https://web.stanford.edu/~jurafsky/slp3/26.pdf">Automatic Speech Recognition and Text-to-Speech</a>
 </ol>
 <a href="https://web.stanford.edu/~jurafsky/slp3/"> Source </a>
-Credit: <a href="http://web.stanford.edu/people/jurafsky/"> <Dan Jurafsky </a> and <a href="http://www.cs.colorado.edu/~martin/">James H. Martin></a>
+Credit: <a href="http://web.stanford.edu/people/jurafsky/"> Dan Jurafsky </a> and <a href="http://www.cs.colorado.edu/~martin/">James H. Martin></a>
